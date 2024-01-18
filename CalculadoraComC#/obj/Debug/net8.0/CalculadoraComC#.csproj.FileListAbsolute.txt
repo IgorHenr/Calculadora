@@ -1,0 +1,14 @@
+C:\Users\monal\source\repos\CalculadoraComC#\CalculadoraComC#\bin\Debug\net8.0\CalculadoraComC#.exe
+C:\Users\monal\source\repos\CalculadoraComC#\CalculadoraComC#\bin\Debug\net8.0\CalculadoraComC#.deps.json
+C:\Users\monal\source\repos\CalculadoraComC#\CalculadoraComC#\bin\Debug\net8.0\CalculadoraComC#.runtimeconfig.json
+C:\Users\monal\source\repos\CalculadoraComC#\CalculadoraComC#\bin\Debug\net8.0\CalculadoraComC#.dll
+C:\Users\monal\source\repos\CalculadoraComC#\CalculadoraComC#\bin\Debug\net8.0\CalculadoraComC#.pdb
+C:\Users\monal\source\repos\CalculadoraComC#\CalculadoraComC#\obj\Debug\net8.0\CalculadoraComC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monal\source\repos\CalculadoraComC#\CalculadoraComC#\obj\Debug\net8.0\CalculadoraComC#.AssemblyInfoInputs.cache
+C:\Users\monal\source\repos\CalculadoraComC#\CalculadoraComC#\obj\Debug\net8.0\CalculadoraComC#.AssemblyInfo.cs
+C:\Users\monal\source\repos\CalculadoraComC#\CalculadoraComC#\obj\Debug\net8.0\CalculadoraComC#.csproj.CoreCompileInputs.cache
+C:\Users\monal\source\repos\CalculadoraComC#\CalculadoraComC#\obj\Debug\net8.0\CalculadoraComC#.dll
+C:\Users\monal\source\repos\CalculadoraComC#\CalculadoraComC#\obj\Debug\net8.0\refint\CalculadoraComC#.dll
+C:\Users\monal\source\repos\CalculadoraComC#\CalculadoraComC#\obj\Debug\net8.0\CalculadoraComC#.pdb
+C:\Users\monal\source\repos\CalculadoraComC#\CalculadoraComC#\obj\Debug\net8.0\CalculadoraComC#.genruntimeconfig.cache
+C:\Users\monal\source\repos\CalculadoraComC#\CalculadoraComC#\obj\Debug\net8.0\ref\CalculadoraComC#.dll
